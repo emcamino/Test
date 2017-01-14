@@ -1,4 +1,5 @@
 <head>
+<link href="style.css" type="text/css" rel="stylesheet">
   <title>Will this tab change?</title>
 </head>
 <!--Doesn't seem to like my indenation very nicely-->
